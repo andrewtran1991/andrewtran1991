@@ -13,8 +13,8 @@
 ### Contact Me
 
 - Email: anhltran91@gmail.com
-- LinkedIn: [linkedin.com/in/andrewtran13]
-- GitHub: [github.com/andrewtran1991]
+- LinkedIn: linkedin.com/in/andrewtran13
+- GitHub: github.com/andrewtran1991
 
 ---
 
