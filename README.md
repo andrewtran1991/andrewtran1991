@@ -12,9 +12,9 @@
 
 ### Contact Me
 
-- Email: anhltran91@gmail.com
-- LinkedIn: linkedin.com/in/andrewtran13
-- GitHub: github.com/andrewtran1991
+- Email: [anhltran91@gmail.com](mailto:anhltran91@gmail.com)
+- LinkedIn: [linkedin.com/in/andrewtran13](https://www.linkedin.com/in/andrewtran13)
+- GitHub: [github.com/andrewtran1991](https://www.github.com/andrewtran1991)
 
 ---
 
